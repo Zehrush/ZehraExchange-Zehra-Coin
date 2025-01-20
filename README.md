@@ -1,15 +1,11 @@
-İşte linkin ayrı bir şekilde göründüğü hali:
-
-```markdown
 # Zehra Exchange - Zehra Coin (ZC)
 **Project Name**: Zehra Exchange  
 **Coin Name**: Zehra Coin (ZC)
 
 ## Who Are We?
-We are a passionate team dedicated to revolutionizing the cryptocurrency space by combining innovation with the power of blockchain. Our mission is to deliver a secure, decentralized, and engaging platform for cryptocurrency enthusiasts. Through Zehra Coin (ZC), we aim to foster a community-driven ecosystem that delivers both entertainment and real-world value.
+We are a passionate team dedicated to revolutionizing the meme coin space by combining the fun of memes with the power of blockchain. Our mission is to bring an innovative, decentralized, and engaging meme coin to the crypto world, built on the robust Andromeda Protocol. Through Can Meme Coin (CMC), we aim to foster a community-driven ecosystem that delivers both entertainment and real-world value.
 
-Explore our platform:  
-**[Zehra Exchange - Zehra Coin (ZC) on Andromeda Protocol](https://embeddables.testnet.andromedaprotocol.io/galileo-4/ZehraExchange)**
+[Zehra Exchange - Zehra Coin (ZC) on Andromeda Protocol](https://embeddables.testnet.andromedaprotocol.io/galileo-4/ZehraExchange))
 
 ---
 
@@ -19,11 +15,11 @@ Explore our platform:
 Zehra Coin (ZC) is designed to bring value and excitement to the crypto space. Launched on the Andromeda Protocol, ZC is fast, secure, and scalable while offering a community-driven experience. Holders of ZC will be part of an exclusive group that enjoys rewards, events, and an innovative decentralized finance (DeFi) ecosystem.
 
 ### Key Features:
-- **Community-Driven**: A cryptocurrency designed for and by the community.
+- **Community-Driven**: A meme coin designed for and by the community.
 - **Low Transaction Fees**: Powered by Andromeda Protocol, ensuring fast and low-cost transactions.
-- **Utility-Focused**: Unlock rewards, airdrops, and special events for ZC holders.
+- **Meme-Based Utility**: Unlock meme-related rewards, airdrops, and special events for CMC holders.
 - **Decentralized**: Operates on a decentralized blockchain, ensuring transparency and security.
-- **Staking and Rewards**: ZC holders can stake their tokens to earn additional rewards and participate in the project’s growth.
+- **Staking and Rewards**: CMC holders can stake their tokens to earn additional rewards and participate in the project’s growth.
 
 ---
 
@@ -36,22 +32,22 @@ Our vision is to build a thriving, decentralized ecosystem around Zehra Coin (ZC
 ## Development Plan
 
 1. **Define Token Functions and Variables**
-   - Token Name: Zehra Coin (ZC)
-   - Symbol: ZC
-   - Total Supply: 1,000,000,000 ZC
+   - Token Name: Can Meme Coin (CMC)
+   - Symbol: CMC
+   - Total Supply: 1,000,000,000 CMC
    - Smart Contract Functions:
      - `mintToken()` for creating new tokens.
      - `transferToken()` for transferring tokens between wallets.
-     - `stakeZC()` for staking tokens and earning rewards.
+     - `stakeCMC()` for staking tokens and earning rewards.
      - `verifyOwnership()` to track wallet ownership and ensure rewards distribution.
 
 2. **Backend Development**
-   - Deploy and manage ZC token contracts on the Andromeda Protocol.
+   - Deploy and manage CMC token contracts on the Andromeda Protocol.
    - Implement staking mechanisms and rewards systems.
    - Integrate with decentralized exchanges (DEXs) for token swaps.
 
 3. **Frontend Development**
-   - Design a user-friendly interface for managing ZC holdings, staking, and rewards.
+   - Design a user-friendly interface for managing CMC holdings, staking, and rewards.
    - Provide a dashboard to track token balances, staking rewards, and upcoming events.
 
 4. **Testing and Quality Assurance**
@@ -59,12 +55,12 @@ Our vision is to build a thriving, decentralized ecosystem around Zehra Coin (ZC
    - Ensure security, scalability, and seamless integration across platforms.
 
 5. **Community Building and Marketing**
-   - Launch community-driven events such as contests, airdrops, and challenges.
-   - Collaborate with influencers and crypto communities to increase adoption and engagement.
+   - Launch community-driven events such as meme contests, airdrops, and challenges.
+   - Collaborate with influencers and meme communities to increase adoption and engagement.
 
 6. **Deployment**
-   - Deploy Zehra Coin (ZC) on the Andromeda Protocol.
-   - List ZC on DEXs and onboard early community supporters.
+   - Deploy Can Meme Coin (CMC) on the Andromeda Protocol.
+   - List CMC on DEXs and onboard early community supporters.
 
 ---
 
@@ -79,7 +75,7 @@ Our vision is to build a thriving, decentralized ecosystem around Zehra Coin (ZC
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/ZehraKalyoncuoglu/ZehraExchange-Zehra-Coin.git
+   git clone https://github.com/Zehrush/ZehraExchange-Zehra-Coin.git
    cd ZehraExchange-Zehra-Coin
    ```
 
@@ -122,7 +118,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ---
 
 ## Contact
-For inquiries or support, please reach out to us at [support@zehraexchange.com](mailto:support@zehraexchange.com).
+For inquiries or support, please reach out to us at [support@canexchange.com](mailto:support@canexchange.com).
 
 ---
-```
