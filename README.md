@@ -1,4 +1,4 @@
-Here's the updated README file tailored for "Zehra Coin" and "Zehra Exchange":
+İşte linkin ayrı bir şekilde göründüğü hali:
 
 ```markdown
 # Zehra Exchange - Zehra Coin (ZC)
@@ -8,7 +8,8 @@ Here's the updated README file tailored for "Zehra Coin" and "Zehra Exchange":
 ## Who Are We?
 We are a passionate team dedicated to revolutionizing the cryptocurrency space by combining innovation with the power of blockchain. Our mission is to deliver a secure, decentralized, and engaging platform for cryptocurrency enthusiasts. Through Zehra Coin (ZC), we aim to foster a community-driven ecosystem that delivers both entertainment and real-world value.
 
-[Explore our platform: Zehra Exchange - Zehra Coin (ZC) on Andromeda Protocol](https://embeddables.testnet.andromedaprotocol.io/galileo-4/ZehraExchange)
+Explore our platform:  
+**[Zehra Exchange - Zehra Coin (ZC) on Andromeda Protocol](https://embeddables.testnet.andromedaprotocol.io/galileo-4/ZehraExchange)**
 
 ---
 
@@ -78,7 +79,7 @@ Our vision is to build a thriving, decentralized ecosystem around Zehra Coin (ZC
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/ZehraZehrush/ZehraExchange-Zehra-Coin.git
+   git clone https://github.com/ZehraKalyoncuoglu/ZehraExchange-Zehra-Coin.git
    cd ZehraExchange-Zehra-Coin
    ```
 
@@ -125,5 +126,3 @@ For inquiries or support, please reach out to us at [support@zehraexchange.com](
 
 ---
 ```
-
-Let me know if you need further adjustments!
