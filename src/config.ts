@@ -3,7 +3,7 @@ import { ICollectionType, IConfig } from "./lib/app/types";
 const CONFIG: IConfig = {
     coinDenom: "uandr",
     name: "Zehra Exchange",
-    chainId: "elgafar-1",
+    chainId: "galileo-4",
     createdDate: "2025-01-19T19:01:01.148Z",
     modifiedDate: "2025-01-19T19:01:01.148Z",
     id: "andromeda",
