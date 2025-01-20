@@ -78,7 +78,7 @@ Our vision is to build a thriving, decentralized ecosystem around Zehra Coin (ZC
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/ZehraKalyoncuoglu/ZehraExchange-Zehra-Coin.git
+   git clone https://github.com/ZehraZehrush/ZehraExchange-Zehra-Coin.git
    cd ZehraExchange-Zehra-Coin
    ```
 
